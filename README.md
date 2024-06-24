@@ -5,7 +5,7 @@ Forecasting dynamics by an incomplete equation of motion and an auto-encoder Koo
 
 **Authors**  
 Zhao Chen (Southeast University)  
-Hao Sun (Renmin University of China)
+Hao Sun (Renmin University of China)  
 Wen Xiong (Southeast University)
 
 **Abstract**  
